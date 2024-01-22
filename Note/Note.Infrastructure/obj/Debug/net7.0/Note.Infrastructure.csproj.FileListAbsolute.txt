@@ -1,0 +1,17 @@
+C:\Programing\Projects\Note\Note.Infrastructure\bin\Debug\net7.0\Note.Infrastructure.deps.json
+C:\Programing\Projects\Note\Note.Infrastructure\bin\Debug\net7.0\Note.Infrastructure.runtimeconfig.json
+C:\Programing\Projects\Note\Note.Infrastructure\bin\Debug\net7.0\Note.Infrastructure.dll
+C:\Programing\Projects\Note\Note.Infrastructure\bin\Debug\net7.0\Note.Infrastructure.pdb
+C:\Programing\Projects\Note\Note.Infrastructure\bin\Debug\net7.0\Note.Core.dll
+C:\Programing\Projects\Note\Note.Infrastructure\bin\Debug\net7.0\Note.Core.pdb
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.csproj.AssemblyReference.cache
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.AssemblyInfoInputs.cache
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.AssemblyInfo.cs
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.csproj.CopyComplete
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.dll
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\refint\Note.Infrastructure.dll
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.pdb
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\Note.Infrastructure.genruntimeconfig.cache
+C:\Programing\Projects\Note\Note.Infrastructure\obj\Debug\net7.0\ref\Note.Infrastructure.dll

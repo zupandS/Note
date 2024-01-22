@@ -1,0 +1,11 @@
+C:\Programing\Projects\Note\Note.Core\bin\Debug\net7.0\Note.Core.deps.json
+C:\Programing\Projects\Note\Note.Core\bin\Debug\net7.0\Note.Core.dll
+C:\Programing\Projects\Note\Note.Core\bin\Debug\net7.0\Note.Core.pdb
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\Note.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\Note.Core.AssemblyInfoInputs.cache
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\Note.Core.AssemblyInfo.cs
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\Note.Core.csproj.CoreCompileInputs.cache
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\Note.Core.dll
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\refint\Note.Core.dll
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\Note.Core.pdb
+C:\Programing\Projects\Note\Note.Core\obj\Debug\net7.0\ref\Note.Core.dll

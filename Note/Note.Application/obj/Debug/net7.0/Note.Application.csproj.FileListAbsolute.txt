@@ -1,0 +1,17 @@
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Application.deps.json
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Application.dll
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Application.pdb
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Core.dll
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Infrastructure.dll
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Infrastructure.pdb
+C:\Programing\Projects\Note\Note.Application\bin\Debug\net7.0\Note.Core.pdb
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.csproj.AssemblyReference.cache
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.AssemblyInfoInputs.cache
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.AssemblyInfo.cs
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.csproj.CoreCompileInputs.cache
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.csproj.CopyComplete
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.dll
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\refint\Note.Application.dll
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\Note.Application.pdb
+C:\Programing\Projects\Note\Note.Application\obj\Debug\net7.0\ref\Note.Application.dll
